@@ -66,7 +66,9 @@ The dashboard provides actionable HR insights through KPIs, trend analysis, and 
 - Data Visualization
 
 ## Dashboard Preview
-![Dashboard Preview](Images/HR_Dashboard_Overview.png)
+<p align="center">
+  <img src="HR_Dashboard_Overview.png" width="1000">
+</p>
 
 ## Business Recommendations
 - Focus retention efforts on Sales Representatives and Laboratory Technicians.
